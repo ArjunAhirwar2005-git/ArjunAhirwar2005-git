@@ -9,12 +9,12 @@
   <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="350" align="right" alt="Coder GIF">
   
   <div align="left">
-    🔭 I’m currently studying at <b>SAGE University, Bhopal</b> (5th Semester). <br><br>
-    🌱 I’m currently focused on <b>Data Science, Machine Learning, and Flutter</b>. <br><br>
+    🔭 I’m currently studying at <b>SAGE University, Bhopal</b> (6th Semester). <br><br>
+    🌱 I’m currently focused on <b>Data Science,Data Analytics, Machine Learning,DSA,SQL,Firebase,PowerBI and Flutter</b>. <br><br>
     👨‍💻 You can check out all my Data Science assignments and projects right here on my profile. <br><br>
     ♟️ Fun fact: <b>When I'm not coding in C++ or Python, I enjoy playing chess, basketball, and creating motivational content!</b> <br><br>
     
-    <h3>Connect with me:</h3>
+  <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/arjun-ahirwar-488945296" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
