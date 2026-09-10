@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arjun%20Ahirwar&fontSize=80&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arjun%20Noneriya&fontSize=80&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate B.Tech CSE Student & Developer from India 🇮🇳</h3>
